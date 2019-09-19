@@ -5,7 +5,7 @@ Usage of random tor proxies with python requests
 # Installation
 
 ```bash
-$ apt update && apt -y upgrade && apt-get install -y git net-tools vim python3 python3-pip tor
+$ apt update && apt -y upgrade && apt-get install -y git net-tools python3 python3-pip tor
 $ pip3 install requests stem bs4 pysocks
 $ git clone https://github.com/henriqueblobato/PythonRequestTor.git
 $ cd PythonRequestTor
