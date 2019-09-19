@@ -1,5 +1,5 @@
 #!/bin/bash
-apt update && apt -y upgrade && apt-get install -y git net-tools python3 python3-pip tor
+apt update && apt -y upgrade && apt-get install -y git net-tools python3 python3-pip tor vim
 pip3 install requests stem bs4 pysocks
 git clone https://github.com/henriqueblobato/PythonRequestTor.git
 cd PythonRequestTor
