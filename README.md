@@ -5,6 +5,8 @@ Usage of random tor proxies with python requests
 # Installation
 
 ```bash
+$ git clone https://github.com/henriqueblobato/PythonRequestTor.git
+$ cd PythonRequestTor
 $ sudo bash install.sh
 ```
 
