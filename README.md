@@ -12,6 +12,6 @@ $ sudo bash install.sh
 
 # Demo
 
-[![Demonstration](https://i.vimeocdn.com/video/814883325_1280.jpg)](https://player.vimeo.com/video/360656360)
+[![Demonstration](https://i.vimeocdn.com/video/896809112_1280.jpg)](https://player.vimeo.com/video/421237827)
 
 Tested on Ubuntu 18.04.3 LTS (Bionic Beaver)
