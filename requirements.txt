@@ -16,4 +16,4 @@ SecretStorage==2.3.1
 six==1.11.0
 soupsieve==1.9.3
 stem==1.7.1
-urllib3==1.25.5
+urllib3==1.26.5
