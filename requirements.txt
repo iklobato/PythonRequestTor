@@ -3,7 +3,7 @@ beautifulsoup4==4.8.0
 bs4==0.0.1
 certifi==2019.9.11
 chardet==3.0.4
-cryptography==2.1.4
+cryptography==3.2
 idna==2.6
 keyring==10.6.0
 keyrings.alt==3.0
